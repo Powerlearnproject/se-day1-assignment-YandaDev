@@ -31,7 +31,6 @@ In the early 2000s, agile methodologies like Scrum and Extreme Programming becam
 
 ##
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 
 >**Planning**:
@@ -75,7 +74,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 **Cons**
 - Due to its rigid structure, changes are difficult to incorporate once a phase is completed
-- Testing occurs late in the pricess
+- Testing occurs late in the process
 
 **Example** 
 - Construction Projects: Building a house or a bridge, where the design and plan are finalized before construction begins.
@@ -103,7 +102,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
->**Software Developer** designs, builds, and maintains software applications.
+>**Software Developer** designs, builds and maintains software applications.
 
 **Responsibilities**:
 - Writes clean, efficient code based on specifications.
